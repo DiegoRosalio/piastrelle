@@ -1,0 +1,7 @@
+C 1 0 blu 2
+C 1 1 celeste 3
+C 3 0 rosso 1
+C 0 0 arancione 4
+t 0 0 NE,SS
+L 0 0 1 1
+q

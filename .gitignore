@@ -1,0 +1,8 @@
+*.aux
+*.log
+*.out
+*.toc
+solution
+consegna/
+lib_test.go
+formatoLuglio_test.go
